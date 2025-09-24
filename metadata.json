@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Guide Generator",
+  "description": "An application that takes a web link and uses AI to generate a condensed study guide or cheat sheet with important concepts.",
+  "requestFramePermissions": []
+}
